@@ -1,6 +1,6 @@
 <div align = "center"> 
 
-# Kiron Okami 🐺
+# Kíron Okami 🐺
 ##### Saudações, damas e cavalheiros! 
     
 <img align= "center" height="125em" src = "https://github.com/Kiron-Okami/Kiron-Okami/assets/164359342/534b0cf3-40c9-4000-9b2e-de315f0f3dd8">
